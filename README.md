@@ -3,12 +3,12 @@
 Caractériser le marché de l’immobilier à Paris à l'aide d'algorithmes de clustering et prédire le prix d'un actif immobilier.
 La méthode utilisé pour la prédiction d'un actif immobilier est une régression Lasso.
 
-## Dictionnaire des variables : 
-id_mutation : Identifiant de mutation (non stable, sert à grouper les lignes)
-date_mutation : Date de la mutation au format ISO-8601 (YYYY-MM-DD)
-numero_disposition : Numéro de disposition
-valeur_fonciere : Valeur foncière (séparateur décimal = point)
-adresse_numero : Numéro de l'adresse
+## Dictionnaire des variables :  
+id_mutation : Identifiant de mutation (non stable, sert à grouper les lignes). 
+date_mutation : Date de la mutation au format ISO-8601 (YYYY-MM-DD). 
+numero_disposition : Numéro de disposition. 
+valeur_fonciere : Valeur foncière (séparateur décimal = point). 
+adresse_numero : Numéro de l'adresse. 
 adresse_suffixe : Suffixe du numéro de l'adresse (B, T, Q)
 adresse_code_voie : Code FANTOIR de la voie (4 caractères)
 adresse_nom_voie : Nom de la voie de l'adresse
