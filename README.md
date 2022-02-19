@@ -5,8 +5,8 @@ Caractériser le marché de l’immobilier à Paris à l'aide d'algorithmes de c
 La méthode utilisé pour la prédiction d'un actif immobilier est une régression Lasso.
 
 ## Dictionnaire des variables :  
-id_mutation : Identifiant de mutation (non stable, sert à grouper les lignes). 
-date_mutation : Date de la mutation au format ISO-8601 (YYYY-MM-DD). 
+id_mutation : Identifiant de mutation (non stable, sert à grouper les lignes).  
+date_mutation : Date de la mutation au format ISO-8601 (YYYY-MM-DD).  
 numero_disposition : Numéro de disposition. 
 valeur_fonciere : Valeur foncière (séparateur décimal = point). 
 adresse_numero : Numéro de l'adresse. 
