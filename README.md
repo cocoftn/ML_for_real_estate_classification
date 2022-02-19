@@ -6,7 +6,7 @@ La méthode utilisé pour la prédiction d'un actif immobilier est une régressi
 
 ## Data
 ### sources
-https://www.data.gouv.fr/fr/datasets/r/3004168d-bec4-44d9-a781-ef16f41856a2
+Demandes de valeurs foncières (DVF) disponible publiquement sur le site www.data.gouv.fr à l'adresse suivante :  https://www.data.gouv.fr/fr/datasets/r/3004168d-bec4-44d9-a781-ef16f41856a2
 ### Dictionnaire des variables :  
 id_mutation : Identifiant de mutation (non stable, sert à grouper les lignes).  
 date_mutation : Date de la mutation au format ISO-8601 (YYYY-MM-DD).  
