@@ -10,14 +10,17 @@ date_mutation : Date de la mutation au format ISO-8601 (YYYY-MM-DD).
 numero_disposition : Numéro de disposition.  
 valeur_fonciere : Valeur foncière (séparateur décimal = point).  
 adresse_numero : Numéro de l'adresse.  
-adresse_suffixe : Suffixe du numéro de l'adresse (B, T, Q). 
-adresse_code_voie : Code FANTOIR de la voie (4 caractères). 
-adresse_nom_voie : Nom de la voie de l'adresse. 
-code_postal : Code postal (5 caractères). 
-code_commune : Code commune INSEE (5 caractères). nom_commune : Nom de la commune (accentué)
+adresse_suffixe : Suffixe du numéro de l'adresse (B, T, Q).  
+adresse_code_voie : Code FANTOIR de la voie (4 caractères).  
+adresse_nom_voie : Nom de la voie de l'adresse.   
+code_postal : Code postal (5 caractères).  
+code_commune : Code commune INSEE (5 caractères). nom_commune : Nom de la commune (accentué). 
 code_commune : Code commune INSEE (5 caractères).  
-ancien_code_commune : Ancien code commune INSEE (si différent lors de la mutation)
-ancien_nom_commune : Ancien nom de la commune (si différent lors de la mutation)
+ancien_code_commune : Ancien code commune INSEE (si différent lors de la mutation). 
+ancien_nom_commune : Ancien nom de la commune (si différent lors de la mutation). 
+code_departement : Code département INSEE (2 ou 3 caractères). 
+code_departement : Code département INSEE (2 ou 3 caractères). 
+code_departement : Code département INSEE (2 ou 3 caractères)
 code_departement : Code département INSEE (2 ou 3 caractères)
 id_parcelle : Identifiant de parcelle (14 caractères)
 ancien_id_parcelle : Ancien identifiant de parcelle (si différent lors de la mutation)
