@@ -1,4 +1,5 @@
-# ML_for_real_estate_classification
+# ML_for_real_estate_classification. 
+
 ## Objectif : 
 Caractériser le marché de l’immobilier à Paris à l'aide d'algorithmes de clustering et prédire le prix d'un actif immobilier.
 La méthode utilisé pour la prédiction d'un actif immobilier est une régression Lasso.
